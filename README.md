@@ -1,2 +1,2 @@
-https://ostentafacere.github.io/rsschool-cv/cv
-https://ostentafacere.github.io/rsschool-cv/
+* https://ostentafacere.github.io/rsschool-cv/cv
+* https://ostentafacere.github.io/rsschool-cv/
