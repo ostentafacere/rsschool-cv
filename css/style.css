@@ -1,1 +1,27 @@
+body {
+    margin: 0;
+    background-color:papayawhip;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    line-height: 1.5;
+}
 
+.card {
+    width: 450px;
+    margin: 0px auto;
+    padding: 20px;
+    background-color:papayawhip;
+    box-shadow: 0 5px 10px;
+    border-radius: 15px;
+}
+
+.image {
+       display: block;
+       margin: 0 auto;
+       align-content: center;
+}
+
+.card-name {
+    font-size:larger;
+    text-align: center;
+    color: rgb(174, 97, 93);
+}
