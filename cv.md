@@ -18,7 +18,10 @@ I have been working in that firm for many years and I'm good in what I do. But n
 
 ## *Skills*
 
-For now I do not have any skills in programm languages, but I'll do my best to lern them.
+For now I do not have any skills in programm languages, but I'll do my best to lern:
+ * HTML
+ * CSS
+ * Java Script
 
 ## Code Exapmle
 
