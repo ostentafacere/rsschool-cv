@@ -1,0 +1,180 @@
+body {
+    margin: 0;
+    background-color:papayawhip;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    line-height: 1.5;
+}
+
+.card {
+    width: 450px;
+    margin: 0px auto;
+    padding: 20px;
+    background-color:papayawhip;
+    box-shadow: 0 5px 10px;
+    border-radius: 15px;
+}
+
+.image {
+       display: block;
+       margin: 0 auto;
+       align-content: center;
+}
+
+.card-name {
+    font-size:larger;
+    text-align: center;
+    color: rgb(174, 97, 93);
+}
+.cont {
+    font-size: medium;
+    text-align: center;
+    color: rgb(174, 97, 93);
+}
+
+.line {
+    font-size: medium;
+    text-align:unset;
+    color: rgb(174, 97, 93);
+    display: flex;
+    flex-wrap: nowrap;
+    align-content: center;
+    justify-content: space-around;
+    text-decoration: none;
+    list-style-type: none;
+}
+
+.navigation {
+    display: flex;
+    flex-wrap: nowrap;
+    align-content: center;
+    justify-content: center;
+    justify-content: space-around;
+    text-decoration: none;
+    list-style-type: none;
+}
+
+#About {
+    box-shadow: 0 5px 10px;
+    border-radius: 15px;
+    padding: 20px;
+    margin: 20px;
+}
+
+.am {
+    font-size: x-large;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    color: rgb(174, 97, 93);
+}
+
+.one {
+    font-size:larger;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    font-weight: bold;
+    text-decoration: none;
+    list-style-type: none;
+}
+
+.two {
+    font-size: larger;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    font-weight: bold;
+}
+
+#Skills {
+    box-shadow: 0 5px 10px;
+    border-radius: 15px;
+    padding: 20px;
+    margin: 20px;
+    text-decoration: none;
+    list-style-type: none;
+}
+
+.sk {
+    font-size: x-large;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    color: rgb(174, 97, 93);
+}
+
+#CodeEx {
+    box-shadow: 0 5px 10px;
+    border-radius: 15px;
+    padding: 20px;
+    margin: 20px;
+}
+
+.ce {
+    font-size: x-large;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    color: rgb(174, 97, 93);
+}
+
+.three {
+    font-size: larger;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    font-weight: bold;
+}
+
+#Edu {
+    box-shadow: 0 5px 10px;
+    border-radius: 15px;
+    padding: 20px;
+    margin: 20px;
+    text-decoration: none;
+    list-style-type: none;
+}
+
+.ed {
+    font-size: x-large;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    color: rgb(174, 97, 93);
+}
+
+.four {
+    font-size: larger;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    font-weight: bold;
+}
+
+#lang {
+    box-shadow: 0 5px 10px;
+    border-radius: 15px;
+    padding: 20px;
+    margin: 20px;
+    text-decoration: none;
+    list-style-type: none;
+}
+
+.la {
+    font-size: x-large;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    color: rgb(174, 97, 93);
+}
+
+.five {
+    font-size: larger;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    font-weight: bold;
+}
+
+.basement {
+    box-shadow: 0 5px 10px;
+    border-radius: 15px;
+    padding: 20px;
+    margin: 20px;
+}
+
+.sighn {
+    font-size: larger;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
