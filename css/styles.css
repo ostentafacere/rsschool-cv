@@ -39,6 +39,8 @@ body {
     flex-wrap: nowrap;
     align-content: center;
     justify-content: space-around;
+    text-decoration: none;
+    list-style-type: none;
 }
 
 .navigation {
@@ -47,6 +49,8 @@ body {
     align-content: center;
     justify-content: center;
     justify-content: space-around;
+    text-decoration: none;
+    list-style-type: none;
 }
 
 #About {
@@ -68,6 +72,8 @@ body {
     font-family: 'Times New Roman', Times, serif;
     text-align: center;
     font-weight: bold;
+    text-decoration: none;
+    list-style-type: none;
 }
 
 .two {
@@ -82,6 +88,8 @@ body {
     border-radius: 15px;
     padding: 20px;
     margin: 20px;
+    text-decoration: none;
+    list-style-type: none;
 }
 
 .sk {
@@ -117,6 +125,8 @@ body {
     border-radius: 15px;
     padding: 20px;
     margin: 20px;
+    text-decoration: none;
+    list-style-type: none;
 }
 
 .ed {
@@ -138,6 +148,8 @@ body {
     border-radius: 15px;
     padding: 20px;
     margin: 20px;
+    text-decoration: none;
+    list-style-type: none;
 }
 
 .la {
